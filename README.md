@@ -10,6 +10,4 @@ This aluminum sheet cutter was developed as part of an environmental sustainabil
 - <b>Solidworks</b>
 - <b>Granta EduPack</b>
 
-<h3>Disclaimer:</h3> 
 
-<b>Due to a transition to a new PC, the original SolidWorks files for this project were lost. However, the final exported versions are available and provide a comprehensive representation of the design and functionality. </b>
